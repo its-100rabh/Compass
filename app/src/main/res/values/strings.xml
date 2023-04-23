@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">compass</string>
+    <string name="proceed">PROCEED</string>
+    <string name="compass_image">Compass</string>
+    <string name="compass_key">W \u2022 West\nE \u2022 East\nN \u2022 North\nS \u2022 South</string>
+    <string name="bullet_list">\u2022 W - West\n\u2022 E - East\n\u2022 N - North\n\u2022 S - South</string>
+    <string name="rotate_message">Rotate your phone to check the direction.</string>
+
+</resources>
